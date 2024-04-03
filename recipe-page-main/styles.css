@@ -7,7 +7,16 @@
     color: hsl(228, 45%, 44%); 
 }
 
+.main-body {
+    
+}
+
 p {
     font-size: 16px;
 }
 
+img {
+    height: 600px;
+    width: 1250px;
+    border-radius: 10px;
+}
