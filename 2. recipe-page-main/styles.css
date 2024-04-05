@@ -11,8 +11,8 @@
     color: hsl(228, 45%, 44%); 
 }
 
-body {
-    width: max-content;
+#main-body {
+    width: 100%;
     margin: auto;
 }
 
