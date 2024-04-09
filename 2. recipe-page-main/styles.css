@@ -7,6 +7,24 @@
     color: hsl(228, 45%, 44%); 
 }
 
+.preparation-time {
+    background-color: hsl(331, 52%, 84%);
+    border-radius: 10px;
+    padding: 0.5px 15px;
+}
+
+.preparation-time p {
+    color: hsl(307, 100%, 28%);
+    font-size: 18px;
+    margin-bottom: -5px;
+
+}
+.preparation-time ul li {
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
 #main-body {
     width: 100%;
     margin: auto;
@@ -32,7 +50,7 @@ td.normal-data {
 }
 
 td.numerical-data {
-    padding: 8.5px 500px 8.5px 0px;
+    padding: 8.5px 0px 8.5px 0px;
 }
 
 table {
