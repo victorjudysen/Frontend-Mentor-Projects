@@ -4,25 +4,25 @@
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 45%, 44%);
 }
 
 .preparation-time {
     background-color: hsl(331, 52%, 84%);
     border-radius: 10px;
     padding: 0.5px 15px;
+    margin: 20px 5px;
 }
 
 .preparation-time p {
     color: hsl(307, 100%, 28%);
     font-size: 18px;
     margin-bottom: -5px;
-
 }
+
 .preparation-time ul li {
     padding-bottom: 10px;
     padding-left: 10px;
-
 }
 
 #main-body {
