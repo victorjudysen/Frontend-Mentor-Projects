@@ -22,3 +22,19 @@ img {
     border-radius: 10px;
 }
 
+td {
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+
+td.normal-data {
+    padding: 8.5px 0px 8.5px 20px;
+}
+
+td.numerical-data {
+    padding: 8.5px 500px 8.5px 0px;
+}
+
+table {
+    overflow-x: auto;
+}
